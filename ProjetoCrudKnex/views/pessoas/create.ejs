@@ -1,0 +1,25 @@
+<%- include('../partials/header') %>
+
+<h1>New Person</h1>
+<p><a class="btn btn-outline-primary" href="/pessoas">Back</a></p>
+
+<form method="POST">
+  <div class="form-group">
+    <label for="nome">Name</label>
+    <input type="text" class="form-control" name="nome" id="nome" placeholder="Type your name">
+  </div>
+
+  <div class="form-group">
+    <label for="nascimento">Date of Birth</label>
+    <input type="date" class="form-control" name="nascimento" id="nascimento" placeholder="Type your date of birth">
+  </div>
+  
+  <div class="form-group">
+    <label for="cargo">Role</label>
+    <input type="text" class="form-control" name="cargo" id="cargo" placeholder="Type your role">
+  </div>
+
+  <button class="btn btn-primary" type="submit" class="btn btn-default">Save</button>
+</form>
+
+<%- include('../partials/footer') %>
