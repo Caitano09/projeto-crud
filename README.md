@@ -17,7 +17,7 @@ This project use a simple registration of people for apply CRUD with ORM </p>
 [//]: # (Add your gifs/images here:)
 <div align="center">
 
-  <img src="public/projeto-crud.gif" alt="demo">
+  <img src="ProjetoCrudOrm/public/projeto-crud.gif" alt="demo">
 </div>
 <hr />
 
