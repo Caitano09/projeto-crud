@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  PROJECT CRUD with ORM
+  PROJECT CRUD 
 <br>
 <br>
 </h1>
