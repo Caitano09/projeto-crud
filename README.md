@@ -25,6 +25,7 @@ This project use a simple registration of people for apply CRUD with ORM </p>
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
+https://www.mockaroo.com/
 - 💹 **Node Js** — A web framework for Node Js
 - 📄 **MySql** — A database
 - ♻️ **Sequelize** — A Object-relational mapping
